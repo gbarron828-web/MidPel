@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="g" x1="6" y1="8" x2="58" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#22b8f0"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#g)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- hemisferio izquierdo -->
+    <path d="M30 11c-4-4-12-3-14 3-6 0-9.5 6-7.5 11.5C4.5 29 4.5 36.5 9 39.5c-1 6.5 4.5 11 10.5 10 2 5 8.5 6 10.5 2V11z"/>
+    <path d="M16 14c1.5 4 5.5 5.5 8.5 4"/>
+    <path d="M8.5 25.5c4 .5 7 3.5 6.5 8"/>
+    <path d="M19.5 49.5c-.5-4.5 2.5-7.5 6.5-7.5"/>
+    <path d="M21 29c3-1.5 6.5 0 7 3.5"/>
+    <!-- hemisferio derecho -->
+    <path d="M34 11c4-4 12-3 14 3 6 0 9.5 6 7.5 11.5 4 3.5 4 11 -.5 14 1 6.5-4.5 11-10.5 10-2 5-8.5 6-10.5 2V11z"/>
+    <path d="M48 14c-1.5 4-5.5 5.5-8.5 4"/>
+    <path d="M55.5 25.5c-4 .5-7 3.5-6.5 8"/>
+    <path d="M44.5 49.5c.5-4.5-2.5-7.5-6.5-7.5"/>
+    <path d="M43 29c-3-1.5-6.5 0-7 3.5"/>
+  </g>
+</svg>
